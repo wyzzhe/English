@@ -9,4 +9,4 @@
 
 排版 https://editor.mdnice.com/
 ## 博客搭建
-hexo+github搭建个人网站 https://www.cnblogs.com/Robin5/p/12726221.html
+初级 https://www.cnblogs.com/Robin5/p/12726221.html
