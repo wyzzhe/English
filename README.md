@@ -2,6 +2,8 @@
 
 🐧 奥里给
 ## 编程导航 https://www.code-nav.cn/
+
+## 计算机电子书大全 https://gitee.com/cosen1024/awesome-cs-books#https://gitee.com/link?target=https%3A%2F%2Fpan.baidu.com%2Fs%2F1X_olyUf9BsSOzeaOlsOAPw
 ## mark down
 初级 https://github.com/younghz/Markdown
 
