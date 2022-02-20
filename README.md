@@ -17,3 +17,6 @@ Java学习路线 https://github.com/liyupi/code-roadmap/blob/main/docs/roadmap/J
 
 ## Typora
 老版本下载 https://www.typora.io/windows/dev_release.html
+
+## i tell you
+新版网站 https://next.itellyou.cn/Original/Index?id=7ab5f0cb-7607-4bbe-9e88-50716dc43de6
