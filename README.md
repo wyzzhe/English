@@ -20,3 +20,5 @@ Java学习路线 https://github.com/liyupi/code-roadmap/blob/main/docs/roadmap/J
 
 ## i tell you
 新版网站 https://next.itellyou.cn/Original/Index?id=7ab5f0cb-7607-4bbe-9e88-50716dc43de6
+
+## ginger语法纠错网 https://www.gingersoftware.com/content/grammar-rules/adjectives/much-vs-many/
