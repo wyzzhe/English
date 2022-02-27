@@ -24,3 +24,4 @@ Java学习路线 https://github.com/liyupi/code-roadmap/blob/main/docs/roadmap/J
 ## ginger语法纠错网 https://www.gingersoftware.com/content/grammar-rules/adjectives/much-vs-many/
 
 ## 解决submit中java中文乱码 https://blog.csdn.net/gao_xu_520/article/details/78841681
+## 遮挡字幕工具 https://zhuanlan.zhihu.com/p/256343803
